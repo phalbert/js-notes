@@ -43,4 +43,15 @@
 * [Default Parameters](default-parameters.md)
   
 </details>
+
+<details>
+  <summary>Objects and Arrays</summary>
+
+* [Constructors](constructors.md)
+* [Prototypes](prototypes.md)
+* [Expanding objects](expanding-objects.md)
+* [Javascript Object Notation](json.md)
+* [Array Iteration](array-iteration.md)
+  
+</details>
 <!-- tocstop -->
