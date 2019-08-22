@@ -53,4 +53,12 @@
 * [Array Iteration](array-iteration.md)
   
 </details>
+
+<details>
+  <summary>Classes and Modules</summary>
+
+* [Classes](classes.md)
+* [Modules](modules.md)
+  
+</details>
 <!-- tocstop -->
