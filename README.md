@@ -5,7 +5,7 @@
 <!-- toc -->
 
 - [Language Features](#some-background)
-  * [Constants](#constants.md)
-  * [`let` and `var`](#let-and-var.md)
-  * [Rest parameters](#rest-parameters.md)
+  * [Constants](constants.md)
+  * [`let` and `var`](let-and-var.md)
+  * [Rest parameters](rest-parameters.md)
 <!-- tocstop -->
