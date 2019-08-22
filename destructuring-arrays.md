@@ -1,6 +1,6 @@
 # Destructuring Arrays
 
-Destructuring is a quick way of assigning array elements to variables.
+Destructuring is a quick way of assigning array elements to variables. 
 
 ```javascript
 function sendCars(...allCars){
@@ -21,3 +21,4 @@ let [, ...others] = carIds;
 console.log(...others); // 200 400
 console.log(others); // [ 200, 400 ]
 ```
+Always use `[]` when destructuring arrays
