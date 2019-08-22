@@ -21,4 +21,5 @@ let [, ...others] = carIds;
 console.log(...others); // 200 400
 console.log(others); // [ 200, 400 ]
 ```
+
 Always use `[]` when destructuring arrays
