@@ -31,4 +31,16 @@
 * [Operator Precedence](operator-precedence.md)
   
 </details>
+
+<details>
+  <summary>Functions</summary>
+
+* [Function and Block Scope](scope.md)
+* [IIFE's](iifes.md)
+* [Closures](closures.md)
+* [`this` keyword. `call()`, `apply()` and `bind()`](call-apply-bind.md)
+* [Arrow functions](arrow-functions.md)
+* [Default Parameters](default-parameters.md)
+  
+</details>
 <!-- tocstop -->
