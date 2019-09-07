@@ -1,5 +1,7 @@
 # js-notes
 
+* [nuggets](nuggets.md)
+
 ## Table of contents
 
 <!-- toc -->
